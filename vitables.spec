@@ -1,7 +1,7 @@
 %define tarname	ViTables
 %define name	vitables
 %define version 2.0
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary:	Graphical tool for browsing and editing HDF5 files
 Name:		%{name}

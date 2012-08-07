@@ -1,13 +1,13 @@
 %define tarname	ViTables
 %define name	vitables
-%define version 2.0
-%define release %mkrel 3
+%define version 2.1
+%define release 1 
 
 Summary:	Graphical tool for browsing and editing HDF5 files
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
-Source0:	%{tarname}-%{version}.tar.lzma
+Source0:	%{tarname}-%{version}.tar.gz
 License:	GPLv3+ 
 Group:		Editors
 Url:		http://vitables.org

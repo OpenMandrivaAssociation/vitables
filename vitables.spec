@@ -15,6 +15,7 @@ BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 Requires:	python-tables >= 2.0, python-qt4 >= 4.3
 BuildRequires:	python-tables >= 2.0, python-qt4 >= 4.3
+BuildRequires:	python-sphinx
 %py_requires -d
 
 %description

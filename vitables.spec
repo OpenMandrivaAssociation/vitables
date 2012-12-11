@@ -40,3 +40,23 @@ hierarchy, view and modify metadata, view actual data and more.
 %doc ANNOUNCE.txt ChangeLog.txt LICENSE.txt README.txt TODO.txt doc/*.pdf examples/
 %_bindir/*
 %py_sitedir/*
+
+
+%changelog
+* Wed Aug 08 2012 Lev Givon <lev@mandriva.org> 2.1-1
++ Revision: 812887
+- Update to 2.1.
+
+* Sat Oct 30 2010 Michael Scherer <misc@mandriva.org> 2.0-3mdv2011.0
++ Revision: 590586
+- rebuild for python 2.7
+
+* Sun Sep 20 2009 Thierry Vignaud <tv@mandriva.org> 2.0-2mdv2010.0
++ Revision: 445696
+- rebuild
+
+* Tue Jan 20 2009 Lev Givon <lev@mandriva.org> 2.0-1mdv2009.1
++ Revision: 332059
+- import vitables
+
+

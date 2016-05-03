@@ -1,6 +1,6 @@
 %define tarname	ViTables
 %define name	vitables
-%define version 2.1
+%define version 2.2a1
 %define release 1 
 
 Summary:	Graphical tool for browsing and editing HDF5 files
@@ -16,7 +16,7 @@ BuildArch:	noarch
 Requires:	python-tables >= 2.0, python-qt4 >= 4.3
 BuildRequires:	python-tables >= 2.0, python-qt4 >= 4.3
 BuildRequires:	python-sphinx
-%py_requires -d
+BuildRequires:	python3-devel
 
 %description
 ViTables is a graphical tool for browsing and editing files in both PyTables

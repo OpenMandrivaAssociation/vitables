@@ -10,7 +10,7 @@ Release:	%{release}
 Source0:	%{tarname}-%{version}.tar.gz
 License:	GPLv3+ 
 Group:		Editors
-Url:		http://vitables.org
+Url:		https://vitables.org
 BuildArch:	noarch
 Requires:	python-tables >= 2.0, python-qt4 >= 4.3
 BuildRequires:	python-tables >= 2.0, python-qt4 >= 4.3
